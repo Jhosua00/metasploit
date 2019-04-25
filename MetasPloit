@@ -12,35 +12,44 @@ pkg install ruby
 gem install lolcat
 
 clear
-toilet -f smslant -F gay 'METASPLOIT'
+toilet -f smslant -F gay 'meTAInstall'
 sleep 1
 echo "\033[33;1m Metasploit Installer" "\033[37;1m From" "\033[36;1mIndonesia Security Lite"
 sleep 1
-echo "\033[31;1m CHANNEL : Lucifer Yt"
+echo "\033[31;1m Subkreb YouTube" "\033[36;1mHeXerz"
 
 echo " "
-echo "\033[36;1m=============================================================="
-echo "\033[31;1m                 WARNING              "
+echo "____________________________________________________________"|lolcat
+echo "\033[30;1m                 Syarat" "\033[34;1m&" "\033[30;1mKetentuan            "
 sleep 1
-echo "\033[31;1m1.PASTIKAN ANDA TIDAK PERNAH MENGINSTALL METASPLOIT"
+echo "\033[32;1mPastikan Anda Tidak Pernah Menginstal Metasploit Sebelumnya"
 sleep 1
-echo "\033[31;1m2.ANDA HARUS TERHUBUNG DENGAN INTERNET"
+echo "\033[32;1mSisakan Ruang Penyimpanan Minimal 300 MB"
 sleep 1
-echo "\033[31;1m3.PROSES PENGINSTALAN AGAK LAMA JADI MOHON BERSABAR"
+echo "\033[32;1mJaringan Anda Harus Dalam Keadaan Online"
 sleep 1
-echo "\033[31;1m4.PENYIMPANAN HARUS DI ATAS 300MB"
+echo "\033[32;1mAnda Harus Sabar Karena Proses Sangat Lama"
+sleep 1
+echo "\033[31;1mDilarang MeRecode Tools Ini Kecuali Hanya Untuk Pembelajaran"
+sleep 1
+echo "\033[31;1mJangan Sampai Layar Ponsel Anda Mati"
+sleep 1
+echo "\033[31;1mJangan Keluar Dari Aplikasi Termux"
+sleep 1
+echo "\033[31;1mJangan Lupa Subkreb Chanel YouTube Kami"
+echo "____________________________________________________________"|lolcat
 sleep 3
-echo "\033[35;1m            WAIT..."
-echo "\033[36;1m=============================================================="
-read -p "Siap? [Y/T]=" LUCIFER
-if [ $LUCIFER = Y ] || [ $LUCIFER = y ]
+echo "\033[35;1m            Bila Sakit Berlanjut Hubungi Dokter"
+echo "------------------------------------------------------------"|lolcat
+read -p "Siap? [Y/T]=" MrIM81
+if [ $MrIM81 = Y ] || [ $MrIM81 = y ]
 then
 echo "\033[32;1mProses Penginstalan Package Yang Dibutuhkan"
 
 sleep 1
 
 apt install -y autoconf bison clang coreutils axel curl findutils git apr apr-util libffi-dev libgmp-dev libpcap-dev postgresql-dev readline-dev libsqlite-dev openssl-dev libtool libxml2-dev libxslt-dev ncurses-dev pkg-config wget make ruby-dev libgrpc-dev termux-tools ncurses-utils ncurses unzip zip tar postgresql termux-elf-cleaner
-echo "\033[32;1mSTART...."
+echo "\033[32;1mProses Mengunduh File Pendukung"
 sleep 1
 
 # Remove Old Tars
